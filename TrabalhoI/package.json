@@ -1,0 +1,16 @@
+{
+  "name": "trabalhoi",
+  "version": "1.0.0",
+  "description": "Data de Entrega: 01/04/2025\r Enviar via SIGAA o link para acesso a um repositório do Github.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
